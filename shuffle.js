@@ -37,3 +37,7 @@ function shuffle(arr) {
 
     return res;
 }
+
+// test
+shuffle([1,2,3,4,5]);// [4, 5, 1, 3, 2]
+shuffle([1,2,3,4,5]);// [1, 3, 4, 2, 5]
