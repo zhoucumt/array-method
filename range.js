@@ -3,7 +3,7 @@
  * 
  * @param {number} start 数组的起始值
  * @param {number} end   数组的结束值
- * @param {number} step  数组每个值直接的间隔大小
+ * @param {number} step  数组每个值之间的间隔大小
  * @return {Array} res   返回的范围数组
  */
 function range(start, end, step) {
